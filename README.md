@@ -16,4 +16,5 @@ Clone the project to your local development environment with the following steps
 git clone https://github.com/omrgms/vue3-apexcharts.git
 cd vue3-apexcharts
 yarn install
+
 yarn dev
