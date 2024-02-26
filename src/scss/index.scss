@@ -1,0 +1,13 @@
+
+
+html, body {
+  min-height: 100%;
+  font-size: 14px;
+  font-family: "Manrope";
+}
+
+:deep(.v-field__input) {
+  letter-spacing: normal;
+  font-weight: 500;
+  border-radius: 0.4rem;
+}
