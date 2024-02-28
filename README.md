@@ -11,8 +11,7 @@ Interactive Data Visualization with ApexCharts
 ## View this demo site:
 <a href="https://vue3-apexcharts.netlify.app" target="_blank">https://vue3-apexcharts.netlify.app</a> 
 
-<img width="1664" alt="omergumus" src="https://github.com/omrgms/vue3-apexcharts/assets/102555268/1ba55fe7-215f-4631-bd43-b8e9db28f17c">
-
+<img width="1662" alt="Ekran Resmi 2024-02-28 13 39 39" src="https://github.com/omrgms/vue3-apexcharts/assets/102555268/eeb4714b-04b2-447b-a7b9-51f972b0c467">
 
 ## Installation
 
