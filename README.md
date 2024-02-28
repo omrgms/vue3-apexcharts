@@ -2,6 +2,8 @@
 
 Interactive Data Visualization with ApexCharts
 
+## View this demo site: https://vue3-apexcharts.netlify.app
+
 ## Features
 
 - Vue 3 Composition API
