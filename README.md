@@ -2,7 +2,8 @@
 
 Interactive Data Visualization with ApexCharts
 
-## View this demo site: <a href="https://vue3-apexcharts.netlify.app" target="_blank">https://vue3-apexcharts.netlify.app</a> 
+## View this demo site:
+<a href="https://vue3-apexcharts.netlify.app" target="_blank">https://vue3-apexcharts.netlify.app</a> 
 
 ## Features
 
